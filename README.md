@@ -162,3 +162,22 @@ The final Excel dashboard combines:
 - KPI cards
 - Four sales charts
 - Business insights
+
+## Limitations and Future Improvements
+
+### Current Limitations
+
+- The dataset contains only 30 orders covering three months.
+- The analysis is based on a limited sample and may not represent long-term retail performance.
+- Customer-level behavior is limited because the dataset contains only basic customer information.
+- The analysis does not include inventory, discounts, returns, or operating costs.
+
+### Future Improvements
+
+- Analyze a larger dataset covering a longer time period.
+- Add customer segmentation and customer-level analysis.
+- Analyze product and category trends over time.
+- Include inventory and stock-level analysis.
+- Add discount and return analysis.
+- Recreate the analysis using SQL and Power BI.
+- Add interactive filters and slicers to the dashboard.
