@@ -70,7 +70,15 @@ Retail-Sales-Analysis-Excel/
 - Checked the dataset for missing values.
 - Checked Order_ID values for duplicates.
 - Verified appropriate data types for dates, text, and numeric fields.
+### Data Quality Checks
 
+The following checks were performed before analysis:
+
+- Checked the dataset for blank cells in the original data fields.
+- Checked Order_ID values for duplicate records.
+- Verified that dates were stored as valid Excel dates.
+- Verified that Quantity, Sales, and Profit were numeric values.
+- Confirmed that the dataset contains 30 unique orders.
 ### 2. Calculated Columns
 
 Two calculated columns were added:
