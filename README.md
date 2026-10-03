@@ -33,7 +33,25 @@ The analysis focuses on sales performance, profitability, product performance, m
 - Number of Orders: 30
 - Average Order Value: ₹18,156.67
 - Overall Profit Margin: 14.94%
+## KPI Definitions
 
+| KPI | Definition |
+|---|---|
+| Total Sales | Sum of all sales revenue |
+| Total Profit | Sum of profit generated from all orders |
+| Total Quantity | Total number of units sold |
+| Number of Orders | Count of unique orders |
+| Average Order Value | Total Sales divided by Number of Orders |
+| Overall Profit Margin | Total Profit divided by Total Sales |## KPI Definitions
+
+| KPI | Definition |
+|---|---|
+| Total Sales | Sum of all sales revenue |
+| Total Profit | Sum of profit generated from all orders |
+| Total Quantity | Total number of units sold |
+| Number of Orders | Count of unique orders |
+| Average Order Value | Total Sales divided by Number of Orders |
+| Overall Profit Margin | Total Profit divided by Total Sales |
 ## Key Insights
 
 - Electronics generated the highest sales at ₹4,02,700.
