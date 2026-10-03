@@ -58,7 +58,29 @@ The analysis focuses on sales performance, profitability, product performance, m
 - January recorded the highest monthly sales at ₹2,16,200.
 - Chennai generated the highest city sales at ₹2,31,300.
 - Accessories had the highest profit margin at 28.51%.
+## Business Findings
 
+### Sales Performance
+
+- Electronics contributed the largest share of total sales at ₹4,02,700.
+- January had the highest monthly sales at ₹2,16,200.
+- March had the lowest monthly sales at ₹1,42,400.
+
+### Profitability
+
+- Total profit across the analysis period was ₹81,400.
+- Accessories recorded the highest profit margin at 28.51%.
+- The overall profit margin was 14.94%.
+
+### Geographic Performance
+
+- Chennai generated the highest sales among the five cities at ₹2,31,300.
+- Trichy recorded the lowest sales at ₹9,000.
+
+### Product Performance
+
+- Laptop generated the highest product-level sales at ₹2,96,000.
+- Mouse generated ₹5,700 in sales.
 ## Dashboard
 
 The Excel dashboard includes:
