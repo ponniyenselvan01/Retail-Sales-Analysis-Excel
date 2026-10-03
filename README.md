@@ -14,7 +14,7 @@ The analysis focuses on sales performance, profitability, product performance, m
 - Compare sales across cities
 - Identify top-performing products
 - Calculate key business metrics
-- Build an interactive Excel dashboard
+- Build an Excel dashboard
 
 ## Tools Used
 
@@ -22,7 +22,8 @@ The analysis focuses on sales performance, profitability, product performance, m
 - PivotTables
 - PivotCharts
 - Excel formulas
-- Git and GitHub
+- Git
+- GitHub
 
 ## Key KPIs
 
@@ -59,50 +60,3 @@ Retail-Sales-Analysis-Excel/
 ├── Retail_Sales_Analysis.xlsx
 ├── README.md
 └── .gitignore
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
