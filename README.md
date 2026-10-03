@@ -60,3 +60,57 @@ Retail-Sales-Analysis-Excel/
 ├── Retail_Sales_Analysis.xlsx
 ├── README.md
 └── .gitignore
+```
+
+## Analysis Methodology
+
+### 1. Data Preparation
+
+- Converted the raw dataset into an Excel Table named `SalesData`.
+- Checked the dataset for missing values.
+- Checked Order_ID values for duplicates.
+- Verified appropriate data types for dates, text, and numeric fields.
+
+### 2. Calculated Columns
+
+Two calculated columns were added:
+
+- Profit_Margin = Profit / Sales
+- Month = Month extracted from the Date field
+
+### 3. KPI Analysis
+
+The following KPIs were calculated:
+
+- Total Sales
+- Total Profit
+- Total Quantity
+- Number of Orders
+- Average Order Value
+- Overall Profit Margin
+
+### 4. Business Analysis
+
+Sales and profit were analyzed by:
+
+- Category
+- Month
+- City
+- Product
+
+### 5. Visualization
+
+PivotTables and PivotCharts were created to visualize:
+
+- Monthly sales trends
+- Sales by category
+- Sales by city
+- Sales by product
+
+### 6. Dashboard
+
+The final Excel dashboard combines:
+
+- KPI cards
+- Four sales charts
+- Business insights
